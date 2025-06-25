@@ -1,0 +1,14 @@
+{
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Denzy",
+    "license": "MIT",
+    "dependencies": {
+        "@whiskeysockets/baileys": "github:Jet-Black777/Denzy-Baileys",
+        "chalk": "^4.1.2",
+        "pino": "^7.0.5",
+        "readline": "^1.3.0"
+    }
+}
